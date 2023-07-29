@@ -1,6 +1,95 @@
 # walmar-CI-CLT
 performed confidence interval and central limit theorem on data from walmart
 
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Objective](#objective)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Notebooks](#notebooks)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+The Walmar Confidence Interval and Central Limit Theorem project is designed to illustrate the concepts of confidence intervals and the central limit theorem through practical examples and simulations. This repository contains Jupyter notebooks and code to demonstrate the statistical concepts used in data analysis.
+
+## Objective
+The primary objectives of this project are:
+- Explain the concept of confidence intervals and their role in inferential statistics.
+- Showcase the central limit theorem and its significance in sampling from a population.
+- Use data simulations to understand the behavior of confidence intervals under different scenarios.
+
+## Features
+- Visualization and explanation of confidence intervals.
+- Simulation of random samples and calculation of sample means.
+- Comparison of different confidence intervals for various sample sizes.
+
+## Technologies Used
+- Python 3
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- SciPy
+
+*(Feel free to add or modify the list of technologies based on the tools and libraries used in your project)*
+
+## Installation
+To run the Walmar Confidence Interval and Central Limit Theorem notebooks locally, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+   ```
+   git clone https://github.com/raghav1saboo/walmar-CI-CLT.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd walmar-CI-CLT
+   ```
+
+3. Install the required dependencies using the following command:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Usage
+1. Open Jupyter Notebook to access the statistical analysis notebooks:
+   ```
+   jupyter notebook
+   ```
+
+2. In the Jupyter Notebook interface, navigate to the "notebooks" directory and open the desired notebook.
+
+3. Run the code cells in the notebook to explore confidence intervals and central limit theorem concepts.
+
+*(If there are specific usage instructions or guidelines for your project, provide them here)*
+
+## Notebooks
+List the available Jupyter notebooks and their purposes. For example:
+- `confidence_interval.ipynb`: Demonstrates the concept of confidence intervals and their applications.
+- `central_limit_theorem.ipynb`: Illustrates the central limit theorem through simulations and visualizations.
+
+*(Add any additional notebooks relevant to your project)*
+
+## Contributing
+Contributions to this project are welcome. If you find any issues or have improvements to suggest, please feel free to open an issue or create a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+If you have any questions or need further assistance, you can reach me via email at [your_email@example.com](mailto:your_email@example.com).
+
+*(Replace 'your_email@example.com' with your actual email address)*
+
+---
+
+You can copy and paste this template into a new file named "README.md" in the root of your "walmar-CI-CLT" repository. Customize the content to match the specifics of your project, such as the objective, features, technologies used, notebooks, and contact details. Additionally, consider providing examples of confidence interval calculations or central limit theorem simulations from the notebooks to demonstrate the statistical concepts effectively.
+
 About Walmart
 
 Walmart is an American multinational retail corporation that operates a chain of supercenters, discount departmental stores, and grocery stores from the United States. Walmart has more than 100 million customers worldwide.
